@@ -36,7 +36,7 @@ if(get_magic_quotes_gpc()) {
 
 
 //$address = "example@example.net";
-$address = "salgueroflor1982@gmail.com";
+$address = "sergi.flor@integrify.io";
 
 
 
@@ -73,3 +73,4 @@ if(mail($address, $e_subject, $msg, $headers)) {
 	echo 'ERROR!';
 
 }
+?>
