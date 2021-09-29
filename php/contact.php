@@ -36,7 +36,7 @@ if(get_magic_quotes_gpc()) {
 
 
 //$address = "example@example.net";
-$address = "sergi.flor@integrify.io";
+$address = "salgueroflor1982@gmail.com";
 
 
 
