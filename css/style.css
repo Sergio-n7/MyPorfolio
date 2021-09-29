@@ -131,6 +131,9 @@ h4.subHeading {
 	padding-bottom:22px;
 	color: antiquewhite;
 }
+.writing {
+	color: darkgoldenrod;
+}
 .subHeading:hover {
 	transform: scale(1.05);
 }
